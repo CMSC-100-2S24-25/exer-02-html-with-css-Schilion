@@ -3,4 +3,4 @@
 Clemente, Carl Timothy E.
 2021-68301
 BS Computer Science
-Key Takeaways:
+Key Takeaways: Learned about Flexbox
