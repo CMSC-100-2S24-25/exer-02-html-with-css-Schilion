@@ -44,12 +44,12 @@ nav ul li a {
     height: 200px;
     border-radius: 50%;
 }
-/* Projects Section (Full Width) */
+/* Projects Section */
 #projects {
     width: 80%;
     margin: auto;
 }
-/* Flexbox Layout for Skills & Autobiography */
+/* Flexbox Layout */
 .flex-container {
     display: flex;
     justify-content: space-between;
